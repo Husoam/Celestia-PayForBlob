@@ -4,4 +4,4 @@ This is an example of Keplr extension that injects the cosmJS compatible offline
 
 <img src="https://github.com/Husoam/Celestia-PayForBlob/blob/main/blockspacerace.png" width="auto">
 
-##__Requirements__
+## __Requirements__
