@@ -1,0 +1,40 @@
+{
+  "name": "keplr-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "webpack-dev-server",
+  "proxy": "lcp --proxyUrl http://localhost:26659"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.3"
+  },
+  "dependencies": {
+    "@chainapsis/cosmosjs": "0.0.3-alpha.3",
+    "@cosmjs/launchpad": "^0.23.0",
+    "@cosmjs/proto-signing": "^0.27.1",
+    "@cosmjs/stargate": "^0.27.1",
+    "axios": "^0.19.0",
+    "fs": false,
+    "fast-deep-equal": "^3.1.1"
+  },
+ "browser": {
+    "fs": false,
+    "path": false,
+    "os": false,
+    "crypto": false,
+    "stream": false,
+    "http": false,
+    "tls": false,
+    "zlib": false,
+    "https": false,
+    "net": false
+  }
+}
