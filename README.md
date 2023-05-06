@@ -41,6 +41,11 @@ http://localhost:8010/proxy/
 ```
 End result will be a request to http://localhost:26659 without the CORS issues!
 
+Run development Server
+```
+npm run dev
+```
+
 ### __Note__
 
 This is my first ui work and code design in blockchain.  
