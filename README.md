@@ -44,7 +44,10 @@ End result will be a request to http://localhost:26659 without the CORS issues!
 For other commands see comments on src/main.js 
 
 ### __Note__
-This is my first ui work and code design in blockchain.  I may have installed extra, missing or unnecessary packages.  UI can connect with your Keplr wallet, but cannot sign the submit transaction on the network and broadcast it now.  You can support main.js or elsewhere for development.
+This is my first ui work and code design in blockchain.  
+I may have installed extra, missing or unnecessary packages.  
+UI can connect with your Keplr wallet, but cannot sign the submit transaction on the network and broadcast it now.  
+You can support main.js or elsewhere for development.  
 Thanks
 
 
