@@ -22,4 +22,25 @@ npm install --save-dev webpack
 ```
 
 **For Cors Policy Error**
+<https://www.npmjs.com/package/local-cors-proxy> 
+```
+npm install -g local-cors-proxy
+```
+API endpoint that we want to request that has CORS issues:
+```
+http://localhost:26659
+```
+Start Proxy:
+```
+lcp --proxyUrl http://localhost:26659
+Then in your client code, new API endpoint:
+```
+http://localhost:8010/proxy/
+```
+End result will be a request to http://localhost:26659 without the CORS issues!
+
+
+
+
+
 
