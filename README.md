@@ -22,6 +22,7 @@ npm install --save-dev webpack
 ```
 
 **For Cors Policy Error**
+
 <https://www.npmjs.com/package/local-cors-proxy> 
 ```
 npm install -g local-cors-proxy
