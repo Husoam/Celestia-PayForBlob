@@ -12,4 +12,4 @@ First, you must set up Celestia Node.
 
 You can view https://docs.celestia.org/developers/node-tutorial/ for setting up a node
 
-or video tutorial here. <https://www.youtube.com/channel/UC6ndYQW9mjsgOpz_hr95yEA> 
+And video tutorial here. <https://www.youtube.com/channel/UC6ndYQW9mjsgOpz_hr95yEA> 
