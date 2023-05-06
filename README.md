@@ -1,5 +1,5 @@
 # Celestia-PayForBlob
-
+http://143.42.50.231:8008/  
 This is an example of Keplr extension that injects the cosmJS compatible offline signer.
 
 In addition, the user will enter values through the UI and the PlayForBlob operation will be performed on the backend.
@@ -19,6 +19,8 @@ And video tutorial here. <https://www.youtube.com/channel/UC6ndYQW9mjsgOpz_hr95y
 ```
 npm install
 npm install --save-dev webpack
+npm install --save cosmos-sdk
+
 ```
 
 **For Cors Policy Error**
