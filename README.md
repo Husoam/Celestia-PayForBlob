@@ -33,6 +33,7 @@ http://localhost:26659
 Start Proxy:
 ```
 lcp --proxyUrl http://localhost:26659
+```
 Then in your client code, new API endpoint:
 ```
 http://localhost:8010/proxy/
