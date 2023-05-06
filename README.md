@@ -10,14 +10,14 @@ In addition, the user will enter values through the UI and the PlayForBlob opera
 First, you must set up Celestia Node.  
 You can view https://docs.celestia.org/developers/node-tutorial/ for setting up a node  
 And video tutorial here. <https://www.youtube.com/channel/UC6ndYQW9mjsgOpz_hr95yEA>   
+
 **Install dependencies**
 ```
 npm install
 npm install --save-dev webpack
 npm install --save cosmos-sdk
 ```
-**For Cors Policy Error**
-
+**For Cors Policy Error**  
 <https://www.npmjs.com/package/local-cors-proxy> 
 ```
 npm install -g local-cors-proxy
